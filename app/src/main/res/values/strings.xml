@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tap to Count</string>
+    <string name="counterText">0</string>
+    <string name="oops">SUBTRACT</string>
+    <string name="negatives">ALLOW NEGATIVES</string>
+    <string name="zeroButton">ZERO</string>
+    <string name="placeholder">PLACEHOLDER</string>
+</resources>
